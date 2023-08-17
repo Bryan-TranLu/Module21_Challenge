@@ -19,14 +19,17 @@ The KaseiCoin Deployer and Crowdsale contracts are in `KaseiCoinCrowdsale.sol`.
 
 3) Copy the addresses for the Token and Crowdsale contracts and paste them in their respective "At Address" fields.
 
-4) The contract functions will now be available to use. See image below:
+4) The contract functions will now be available to use.
 
-## Images
-To receive all points, you must:
+## Screenshots
+* Create the KaseiCoin Token Contract - Take a screenshot of the successful compilation of the contract
+
+<a href="" target="_blank" rel="noreferrer"><img src="contracts_deployed.png" width="" height="300" alt="" /></a>
+
 
 1) Use the setAccounts function as requested. Capture a screenshot of the execution, and share it in your final submission. (10 points)
 
-<a href="" target="_blank" rel="noreferrer"><img src="Images/SetAccounts.png" width="" height="300" alt="" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="Images/token_complied.png" width="" height="300" alt="" /></a>
 
 2) Test the deposit function. After each of the three transactions, capture a screenshot of the execution, and share it in your final submission. (10 points)
 
