@@ -2,7 +2,9 @@
 Submission for Bryan Tran Lu. 
 
 ## Instructions
-The Solidity file is in `joint_savings.sol`.
+The KaseiCoin Token contract is in file is in `KaseiCoin.sol`.
+
+The KaseiCoin Deployer and Crowdsale contracts are in `KaseiCoinCrowdsale.sol`.
 
 1) Open the Solidity file in the Remix IDE.
 
