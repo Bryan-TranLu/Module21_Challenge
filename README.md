@@ -1,6 +1,13 @@
 ## Module 21 Challenge : Define a new cryptocurrency called KaseiCoin
 Submission for Bryan Tran Lu. 
 
+## Technology Requirements
+* Remix
+
+* Ganache
+
+* MetaMask
+
 ## Instructions
 The KaseiCoin Token contract is in file is in `KaseiCoin.sol`.
 
