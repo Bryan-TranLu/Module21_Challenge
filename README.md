@@ -8,9 +8,11 @@ The KaseiCoin Deployer and Crowdsale contracts are in `KaseiCoinCrowdsale.sol`.
 
 1) Open the Solidity file in the Remix IDE.
 
-2) Compile and deploy the contract. Use Solidity compiler version 0.5.0
+2) Compile and deploy the Deployer contact to a local blockchain.
 
-3) Interact with the deployed smart contract. Deposit at least 16 Ether and use the following dummy account addresses:
+3) Copy the addresses for the Token and Crowdsale contracts and paste them in their respective "At Address" fields.
+
+4) The contract functions will now be available to use. See image below:
 
 ## Images
 To receive all points, you must:
